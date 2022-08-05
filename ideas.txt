@@ -1,0 +1,12 @@
+Strategy towards the solution:
+
+Task:
+- Read the instructions and pass the tutorial
+
+Strategy ideas:
+* We need to estimate the metrics (scores) for the list of planets, based on the following features:
+ -- Number of fleets on planet (self,enemy, neutral)
+ -- Distance between the planets (matrix with mutual distances for every type of planet)
+ -- ???
+ -- Profit!
+
